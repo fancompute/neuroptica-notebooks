@@ -1,2 +1,3 @@
 # neuroptica-notebooks
-Jupyter notebooks for the neuroptica simulator
+
+Example notebooks for the optical neural network simulator, [`neuroptica`](https://github.com/fancompute/neuroptica).
